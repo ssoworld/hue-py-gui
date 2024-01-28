@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import customtkinter as ctk
 import PySimpleGUI as sg
 import shutil
